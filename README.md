@@ -1,2 +1,3 @@
 # ns2_simulation
-Course project for computer
+Course project for computer network
+
